@@ -9,14 +9,19 @@ theme: jekyll-theme-cayman
 
 ## Software Engineering Intern  
 **Company Name**  
-![Company Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg)  
+[![Company Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg)](#company1-description)  
+[![Company Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg)](#company2-description)
+
+### Internships Descriptions
+
+#### <a name="company1-description"></a>Software Engineering Intern  
+**Company Name**  
 *Duration: Summer 2024*  
 - Worked on developing scalable web applications.  
 - Improved system efficiency by 20%.
 
-## Mechanical Engineering Intern  
+#### <a name="company2-description"></a>Mechanical Engineering Intern  
 **Company Name**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg" alt="Company Logo" width="150"/>  
 *Duration: Fall 2023*  
 - Assisted in the design and testing of mechanical components.  
 - Collaborated with cross-functional teams to optimize workflows.
