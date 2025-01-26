@@ -9,7 +9,7 @@ theme: jekyll-theme-cayman
 
 ## Software Engineering Intern  
 **Company Name**  
-[![Company Logo](https://commons.wikimedia.org/wiki/File:Amazon_logo.svg)](#company1-description)  
+[![Company Logo](https://static.vecteezy.com/system/resources/previews/014/018/561/original/amazon-logo-on-transparent-background-free-vector.jpg)](#company1-description)  
 [![Company Logo](https://commons.wikimedia.org/wiki/File:ASML_Holding_N.V._logo.svg)](#company2-description)
 
 ### Internships Descriptions
